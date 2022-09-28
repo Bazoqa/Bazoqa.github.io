@@ -21,3 +21,8 @@
 
 - [Android Studio](https://developer.android.com/studio) if you are going to be working or wish to work on the Android App.
 - [XCode](https://developer.apple.com/xcode/) if you are going to be working or wish to work on the iOS app.
+
+### Bonus Stuff
+- Azure Portal
+- ENV file
+- Figma (Ask Stella to demonstrate if she is here)
