@@ -1,9 +1,9 @@
 # Fieldworker Capstone 2022 Enviornment Setup
 
 ## Basic Tech Stack Overview
-- [fieldworkerAPI](https://github.com/analytiq-pv/fieldworkerAPI/tree/master/fieldworker), which is a Node.js Express API that powers several of ours services.
-- [FieldWrkrApp](https://github.com/analytiq-pv/FieldWrkrApp), a React-Native based Android and iOS app.
-- [FieldWrkrAnalytiQ](https://github.com/analytiq-pv/FieldWrkrAnalytiQ), a React web application that runs in the browser, this is our primary SaaS (Software as a service) desktop application.
+- [fieldworkerAPI], which is a Node.js Express API that powers several of ours services.
+- [FieldWrkrApp], a React-Native based Android and iOS app.
+- [FieldWrkrAnalytiQ], a React web application that runs in the browser, this is our primary SaaS (Software as a service) desktop application.
 
 ## Tools
 
